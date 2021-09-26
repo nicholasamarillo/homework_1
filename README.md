@@ -17,3 +17,6 @@ Here is a quick test to see if the website is running how it shoould:
 3) Click the "Social Media Marketing" button on the Navigation Bar and it should bring you to the section corresponding with it.
 
 If all the links in the Navigation Bar are working, great!
+
+LIVE LINK TO THE WEBSITE!
+https://nicholasamarillo.github.io/homework_1/
